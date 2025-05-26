@@ -1,2 +1,2 @@
-# python-tutorials
+# Python programming daily workouts
 Learning python programming
